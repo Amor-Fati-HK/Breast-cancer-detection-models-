@@ -28,7 +28,7 @@ Projet_PFE_Models/
 │   ├── model.py, model.ipynb, README.md
 ├── .gitignore
 └── README.md                      # This global documentation file
-
+```
 ## Breast Lesion Segmentation: From Unimodal Baselines to Multimodal VLMs
 
 This repository contains the complete codebase, architectures, and experimental notebooks developed for automatic breast lesion segmentation. Our research follows a progressive, pyramidal optimization strategy, transitioning from pure visual models to advanced multimodal vision-language architectures.
