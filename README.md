@@ -72,12 +72,3 @@ Projet_PFE_Models/
 * **5. CLIPSeg + Deep UNet (SOTA Final):** Our final contribution. Uses a pre-aligned vision-language latent space to guide a deep convolutional decoder, precisely "sculpting" tumor spicules.
 
 ---
-
-## Running the Unified Gradio Demo
-We provided a single unified local interface `main_gradio.py` to compare all loaded models interactively on validation cases:
-
-```bash
-pip install gradio tensorflow torch torchvision opencv-python transformers
-python main_gradio.py
-```
-
