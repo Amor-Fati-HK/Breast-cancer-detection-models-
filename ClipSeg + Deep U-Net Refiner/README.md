@@ -19,7 +19,7 @@ The final state-of-the-art (SOTA) model, **`VGG19_CLIP_Hybrid_SOTA`**, bridges t
 
 ## Architecture Schematic
 
-![CLIPSeg + Deep UNet SOTA Architecture](figures/architecture_diagram.png)
+![CLIPSeg + Deep UNet SOTA Architecture](figures/CLIPSeg_Deep_unet.png)
 
 ---
 
